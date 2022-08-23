@@ -4,7 +4,7 @@
 
 ![HTML](./html5.svg "HTML 5") ![CSS](./css3.svg "CSS")
 
-### Please Checkout [youtube video.](https://www.youtube.com/watch?v=F0wPoaYiXD8 "youtube video")
+### Please Checkout [Youtube Video.](https://www.youtube.com/watch?v=F0wPoaYiXD8 "youtube video")
 
 ### Please Checkout [Codepen.](https://codepen.io/WebsCodeMedia/pen/RwrZmEa "Codepen")
 
